@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/0/886c92a7aefa49ee8a9926adbfff8ed5/artifacts
+deleted_time: 1680045504386
+end_time: 1680045294987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 886c92a7aefa49ee8a9926adbfff8ed5
+run_name: secretive-mule-105
+run_uuid: 886c92a7aefa49ee8a9926adbfff8ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680045291091
+status: 3
+tags: []
+user_id: gable

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/771561567984785654/85cc21fde29445da961cd2b70dac6dec/artifacts
+end_time: 1679680818761
+entry_point_name: ''
+experiment_id: '771561567984785654'
+lifecycle_stage: active
+run_id: 85cc21fde29445da961cd2b70dac6dec
+run_name: iris_dataset_api_rest
+run_uuid: 85cc21fde29445da961cd2b70dac6dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679680813425
+status: 3
+tags: []
+user_id: gable

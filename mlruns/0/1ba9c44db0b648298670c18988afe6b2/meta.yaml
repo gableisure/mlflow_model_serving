@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/0/1ba9c44db0b648298670c18988afe6b2/artifacts
+deleted_time: 1680045504387
+end_time: 1680045170399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ba9c44db0b648298670c18988afe6b2
+run_name: invincible-rook-206
+run_uuid: 1ba9c44db0b648298670c18988afe6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680045166074
+status: 3
+tags: []
+user_id: gable

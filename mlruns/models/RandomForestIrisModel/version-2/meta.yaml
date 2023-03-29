@@ -1,0 +1,12 @@
+creation_timestamp: 1679681016155
+current_stage: None
+description: null
+last_updated_timestamp: 1679681016155
+name: RandomForestIrisModel
+run_id: 2248acb5c98f4d1e98faae21231028be
+run_link: null
+source: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/771561567984785654/2248acb5c98f4d1e98faae21231028be/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 2

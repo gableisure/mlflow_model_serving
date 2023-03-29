@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/651693259946942618/f29bdfb445ba43beb65a3067364cf433/artifacts
+end_time: 1680045451885
+entry_point_name: ''
+experiment_id: '651693259946942618'
+lifecycle_stage: active
+run_id: f29bdfb445ba43beb65a3067364cf433
+run_name: wine_elastic_net
+run_uuid: f29bdfb445ba43beb65a3067364cf433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680045447976
+status: 3
+tags: []
+user_id: gable

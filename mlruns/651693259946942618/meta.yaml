@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/651693259946942618
+creation_time: 1680045165841
+experiment_id: '651693259946942618'
+last_update_time: 1680045165841
+lifecycle_stage: active
+name: wine_dataset_regression

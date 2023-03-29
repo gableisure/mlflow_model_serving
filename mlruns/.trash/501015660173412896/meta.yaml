@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/501015660173412896
+creation_time: 1680033386540
+experiment_id: '501015660173412896'
+last_update_time: 1680033468739
+lifecycle_stage: active
+name: Experimento criado via API REST MLflow
+tags: {}

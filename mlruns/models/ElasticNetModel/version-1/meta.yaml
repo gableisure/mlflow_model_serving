@@ -1,0 +1,12 @@
+creation_timestamp: 1680047468145
+current_stage: None
+description: null
+last_updated_timestamp: 1680047468145
+name: ElasticNetModel
+run_id: 3a74f6cbda6845de9d00d87ee2b82773
+run_link: null
+source: file:///C:/Users/gable/OneDrive/%C3%81rea%20de%20Trabalho/PGFN/MLflow/models_test/mlruns/651693259946942618/3a74f6cbda6845de9d00d87ee2b82773/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
